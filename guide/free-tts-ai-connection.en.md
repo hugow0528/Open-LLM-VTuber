@@ -31,9 +31,10 @@ If you need better multilingual cloud ASR with free quota:
 - No API key required, but internet is required
 
 ### Option 2: pyttsx3_tts (fully local)
-- Install:
+- Usually no extra install is needed in this repository setup.
+- If your environment is missing it, install with:
   ```bash
-  uv pip install py3-tts
+  uv add pyttsx3
   ```
 - Set `tts_config.tts_model: pyttsx3_tts`
 

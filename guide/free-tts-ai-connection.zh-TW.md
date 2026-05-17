@@ -31,9 +31,10 @@
 - 不需 API Key，但需要網路
 
 ### 選項 2：pyttsx3_tts（全離線）
-- 安裝：
+- 在此倉庫預設環境中通常不需要額外安裝。
+- 若你的環境缺少依賴，可執行：
   ```bash
-  uv pip install py3-tts
+  uv add pyttsx3
   ```
 - 設定 `tts_config.tts_model: pyttsx3_tts`
 
