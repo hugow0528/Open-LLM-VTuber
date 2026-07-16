@@ -11,7 +11,7 @@ httpx==0.28.1
 langdetect==1.0.9
 letta-client==0.1.324
 loguru==0.7.3
-mcp==1.15.0
+mcp==1.27.2
 numpy==1.26.4
 onnxruntime==1.23.0
 openai==1.109.1
