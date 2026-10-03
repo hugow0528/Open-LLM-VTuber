@@ -1174,7 +1174,7 @@ uvicorn==0.40.0
     #   open-llm-vtuber
 uvloop==0.22.1 ; platform_python_implementation != 'PyPy' and sys_platform != 'cygwin' and sys_platform != 'win32'
     # via uvicorn
-virtualenv==20.36.1
+virtualenv==21.7.13
     # via pre-commit
 watchfiles==1.1.1
     # via uvicorn
